@@ -16,25 +16,7 @@ It is one HTML file with plain JavaScript and CSS. There are no dependencies, no
 
 ## Usage
 
-### Run it locally
-
-1. Download or clone this repository.
-2. Open `index.html` in any modern browser (Chrome, Edge, Firefox, Safari).
-
-That's all. If you prefer serving it over HTTP, any static file server works, for example:
-
-```sh
-npx serve .
-# or
-python -m http.server 8000
-```
-
-### Host it on GitHub Pages
-
-1. Push the repository to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select your main branch and the `/ (root)` folder, then save.
-4. The app will be available at `https://<your-username>.github.io/<repository-name>/`.
+The app is available at https://s-sinha9.github.io/activity-tracker/.
 
 ### Track an activity
 
